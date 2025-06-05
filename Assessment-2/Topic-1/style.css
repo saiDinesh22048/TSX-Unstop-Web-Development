@@ -1,0 +1,35 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #eef2f3;
+  margin: 20px;
+}
+
+h1 {
+  color: greenyellow;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  color: #333;
+}
+
+button:hover {
+  background-color:green;
+} 
+
+button {
+  display: block;
+  margin: 20px auto;
+  background-color: greenyellow;
+  color: white;
+  border:#333;
+  margin-top: 80px;
+  border-radius: 10%;
+  padding: 20px 30px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
